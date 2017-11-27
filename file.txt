@@ -1,0 +1,7 @@
+#include<stdio.h>
+{
+  int a,b;
+  printf("enter value for a");
+  scanf("a=",&a);
+  p
+}
